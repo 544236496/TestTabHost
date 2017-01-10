@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="welcome_visahome_red">#ff5757</color>
+    <color name="welcome_visahome_blue">#8195ed</color>
+    <color name="welcome_visahome_yellow">#ffc000</color>
+    <color name="light_dark_black_text_color">#666666</color>
+</resources>

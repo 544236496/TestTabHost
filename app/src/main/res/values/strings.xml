@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TestTabHost</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="one_items">
+        <item>嘀嘀嘀1</item>
+        <item>嘀嘀嘀2</item>
+        <item>嘀嘀嘀3</item>
+        <item>嘀嘀嘀4</item>
+        <item>嘀嘀嘀5</item>
+        <item>嘀嘀嘀6</item>
+        <item>嘀嘀嘀7</item>
+        <item>嘀嘀嘀8</item>
+        <item>嘀嘀嘀9</item>
+        <item>嘀嘀嘀10</item>
+        <item>嘀嘀嘀11</item>
+        <item>嘀嘀嘀12</item>
+        <item>嘀嘀嘀13</item>
+        <item>嘀嘀嘀14</item>
+        <item>嘀嘀嘀15</item>
+        <item>嘀嘀嘀16</item>
+        <item>嘀嘀嘀17</item>
+        <item>嘀嘀嘀18</item>
+        <item>嘀嘀嘀19</item>
+        <item>嘀嘀嘀20</item>
+        <item>嘀嘀嘀21</item>
+        <item>嘀嘀嘀22</item>
+        <item>嘀嘀嘀23</item>
+        <item>嘀嘀嘀24</item>
+        <item>嘀嘀嘀25</item>
+        <item>嘀嘀嘀26</item>
+        <item>嘀嘀嘀27</item>
+    </string-array>
+    <string-array name="two_items">
+        <item>---1</item>
+        <item>---2</item>
+        <item>---3</item>
+        <item>---4</item>
+        <item>---5</item>
+        <item>---6</item>
+        <item>---7</item>
+        <item>---8</item>
+        <item>---9</item>
+        <item>---10</item>
+        <item>---11</item>
+        <item>---12</item>
+        <item>---13</item>
+        <item>---14</item>
+        <item>---15</item>
+        <item>---16</item>
+        <item>---17</item>
+        <item>---18</item>
+        <item>---19</item>
+        <item>---20</item>
+        <item>---21</item>
+        <item>---22</item>
+        <item>---23</item>
+        <item>---24</item>
+        <item>---25</item>
+        <item>---26</item>
+        <item>---27</item>
+    </string-array>
+</resources>
+
