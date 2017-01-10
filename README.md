@@ -1,5 +1,6 @@
 # TestTabHost
-
+  根节点Activity
+  ![image](https://github.com/544236496/TestTabHost/blob/master/root.PNG)
   1.TabHost基础使用方法（三种方法）
     1.布局中只定义内容xml样式、代码中获取TabHost，动态添加全部内容界面和tab标签进来（FirstWayActivity中讲解）
 
